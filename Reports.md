@@ -290,7 +290,4 @@ The dual API architecture proves particularly innovative, separating high-perfor
 This project not only meets the academic requirements but exceeds industry standards for full-stack web applications, making it suitable for portfolio presentation and professional evaluation.
 
 ---
-
-**Project Repository**: https://github.com/ARIIK-ANTHONY/SUMMATIVE_MOMO  
-**Live Demo**: Available upon request  
 **Contact**: a.ariik@alustudent.com
