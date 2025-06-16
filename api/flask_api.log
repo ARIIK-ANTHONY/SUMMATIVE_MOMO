@@ -1311,3 +1311,15 @@ TypeError: unsupported format string passed to NoneType.__format__
 2025-06-16 16:53:21,998 - INFO - 127.0.0.1 - - [16/Jun/2025 16:53:21] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
 2025-06-16 16:53:22,000 - INFO - 127.0.0.1 - - [16/Jun/2025 16:53:22] "GET /analytics/time_between/ HTTP/1.1" 200 -
 2025-06-16 16:53:22,006 - INFO - 127.0.0.1 - - [16/Jun/2025 16:53:22] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 16:56:03,046 - INFO - 127.0.0.1 - - [16/Jun/2025 16:56:03] "GET /analytics/time_between/ HTTP/1.1" 200 -
+2025-06-16 16:56:03,047 - INFO - 127.0.0.1 - - [16/Jun/2025 16:56:03] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
+2025-06-16 16:56:03,050 - INFO - 127.0.0.1 - - [16/Jun/2025 16:56:03] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 16:57:22,978 - INFO - 127.0.0.1 - - [16/Jun/2025 16:57:22] "GET /analytics/time_between/ HTTP/1.1" 200 -
+2025-06-16 16:57:22,979 - INFO - 127.0.0.1 - - [16/Jun/2025 16:57:22] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
+2025-06-16 16:57:22,982 - INFO - 127.0.0.1 - - [16/Jun/2025 16:57:22] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 16:59:58,964 - INFO - 127.0.0.1 - - [16/Jun/2025 16:59:58] "GET /analytics/time_between/ HTTP/1.1" 200 -
+2025-06-16 16:59:58,967 - INFO - 127.0.0.1 - - [16/Jun/2025 16:59:58] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
+2025-06-16 16:59:58,971 - INFO - 127.0.0.1 - - [16/Jun/2025 16:59:58] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 17:02:22,212 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/time_between/ HTTP/1.1" 200 -
+2025-06-16 17:02:22,212 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
+2025-06-16 17:02:22,215 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/insights/ HTTP/1.1" 200 -
