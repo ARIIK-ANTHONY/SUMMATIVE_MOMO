@@ -1,0 +1,174 @@
+2025-06-15 18:56:16,575 - INFO - Database initialized successfully
+2025-06-15 18:56:17,038 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:17,125 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:18,670 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:28,967 - INFO - Database initialized successfully
+2025-06-15 18:56:32,461 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:35,213 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:35,963 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:36,706 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:56:37,470 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:57:00,694 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:57:21,608 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:58:09,517 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:58:39,192 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 18:59:59,232 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 19:00:17,012 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 19:00:46,939 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 19:01:16,945 - ERROR - Error fetching transactions: no such column: status
+2025-06-15 19:01:52,100 - INFO - Added status column to transactions table
+2025-06-15 19:01:52,104 - INFO - Added description column to transactions table
+2025-06-15 19:01:52,110 - INFO - Added created_at column to transactions table
+2025-06-15 19:01:52,111 - INFO - Updated existing records with descriptions
+2025-06-15 19:01:52,117 - INFO - Database initialized and migrated successfully
+2025-06-15 19:37:52,732 - INFO - Updated existing records with descriptions
+2025-06-15 19:37:52,732 - INFO - Database initialized and migrated successfully
+2025-06-15 21:04:35,943 - INFO - Updated existing records with descriptions
+2025-06-15 21:04:35,944 - INFO - Database initialized and migrated successfully
+2025-06-15 21:04:42,423 - INFO - Updated existing records with descriptions
+2025-06-15 21:04:42,423 - INFO - Database initialized and migrated successfully
+2025-06-15 21:22:49,532 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:23:00,339 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:25:34,669 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:26:04,675 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:26:34,434 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:27:04,668 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:27:34,366 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:31:44,017 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:33:17,754 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:33:47,428 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:34:17,738 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:34:47,431 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 21:35:18,474 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 23:01:25,361 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 23:01:29,506 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-15 23:48:45,649 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:45:48,531 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:46:18,168 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:46:48,503 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:47:31,161 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:47:58,179 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:50:01,480 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:50:36,620 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:51:43,013 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:52:42,676 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:53:55,029 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:54:56,529 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:55:57,960 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:57:02,917 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:58:39,492 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 01:59:11,247 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:00:17,758 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:01:16,929 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:02:55,490 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:03:48,848 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:05:19,541 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:06:22,288 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:07:36,973 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:08:46,412 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:10:06,217 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:10:33,228 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:10:39,004 - ERROR - Error fetching transactions: no such table: transactions
+2025-06-16 02:12:50,068 - INFO - Created new transactions table
+2025-06-16 02:12:50,114 - INFO - Database initialized and migrated successfully
+2025-06-16 02:15:02,028 - INFO - Updated existing records with descriptions
+2025-06-16 02:15:02,029 - INFO - Database initialized and migrated successfully
+2025-06-16 02:15:02,259 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-06-16 02:15:02,260 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 02:15:02,263 - INFO -  * Restarting with stat
+2025-06-16 02:15:02,712 - INFO - Updated existing records with descriptions
+2025-06-16 02:15:02,712 - INFO - Database initialized and migrated successfully
+2025-06-16 02:15:02,765 - WARNING -  * Debugger is active!
+2025-06-16 02:15:02,775 - INFO -  * Debugger PIN: 119-653-472
+2025-06-16 02:16:11,121 - INFO - 127.0.0.1 - - [16/Jun/2025 02:16:11] "GET / HTTP/1.1" 200 -
+2025-06-16 02:16:11,297 - INFO - 127.0.0.1 - - [16/Jun/2025 02:16:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-16 02:16:32,018 - INFO - 127.0.0.1 - - [16/Jun/2025 02:16:32] "GET / HTTP/1.1" 200 -
+2025-06-16 02:16:44,126 - INFO - 192.168.1.101 - - [16/Jun/2025 02:16:44] "GET / HTTP/1.1" 200 -
+2025-06-16 02:16:44,234 - INFO - 192.168.1.101 - - [16/Jun/2025 02:16:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-16 02:18:39,720 - INFO - Updated existing records with descriptions
+2025-06-16 02:18:39,720 - INFO - Database initialized and migrated successfully
+2025-06-16 03:29:51,028 - INFO - Updated existing records with descriptions
+2025-06-16 03:29:51,029 - INFO - Database initialized and migrated successfully
+2025-06-16 03:57:00,496 - INFO - Updated existing records with descriptions
+2025-06-16 03:57:00,497 - INFO - Database initialized and migrated successfully
+2025-06-16 04:05:57,147 - INFO - Updated existing records with descriptions
+2025-06-16 04:05:57,148 - INFO - Database initialized and migrated successfully
+2025-06-16 04:22:22,347 - INFO - Updated existing records with descriptions
+2025-06-16 04:22:22,348 - INFO - Database initialized and migrated successfully
+2025-06-16 11:59:46,846 - INFO - Updated existing records with descriptions
+2025-06-16 11:59:46,847 - INFO - Database initialized and migrated successfully
+2025-06-16 12:07:11,811 - INFO - Updated existing records with descriptions
+2025-06-16 12:07:11,812 - INFO - Database initialized and migrated successfully
+2025-06-16 12:54:08,254 - INFO - Updated existing records with descriptions
+2025-06-16 12:54:08,255 - INFO - Database initialized and migrated successfully
+2025-06-16 12:55:54,796 - INFO - Updated existing records with descriptions
+2025-06-16 12:55:54,797 - INFO - Database initialized and migrated successfully
+2025-06-16 13:17:17,476 - INFO - Updated existing records with descriptions
+2025-06-16 13:17:17,477 - INFO - Database initialized and migrated successfully
+2025-06-16 13:26:05,918 - INFO - Updated existing records with descriptions
+2025-06-16 13:26:05,919 - INFO - Database initialized and migrated successfully
+2025-06-16 13:27:32,455 - INFO - Updated existing records with descriptions
+2025-06-16 13:27:32,457 - INFO - Database initialized and migrated successfully
+2025-06-16 13:27:34,276 - INFO - Updated existing records with descriptions
+2025-06-16 13:27:34,277 - INFO - Database initialized and migrated successfully
+2025-06-16 13:28:24,151 - INFO - Updated existing records with descriptions
+2025-06-16 13:28:24,152 - INFO - Database initialized and migrated successfully
+2025-06-16 13:47:09,953 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 13:48:45,623 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 13:50:14,237 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 13:52:49,588 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 13:57:06,947 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 13:58:52,757 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:00:35,593 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:02:14,642 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:02:24,861 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:02:27,534 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:02:39,077 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:08:08,161 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:09:36,414 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:23:58,606 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:24:18,858 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:24:28,353 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:24:32,541 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:24:34,841 - ERROR - Error fetching transactions: no such column: raw_body
+2025-06-16 14:43:19,548 - INFO - Added raw_body column to transactions table
+2025-06-16 14:43:19,549 - WARNING - Could not update existing records: no such column: recipient
+2025-06-16 14:43:19,551 - WARNING - Could not create index: no such column: recipient
+2025-06-16 14:43:19,552 - INFO - Database initialized and migrated successfully
+2025-06-16 14:43:34,380 - WARNING - Could not update existing records: no such column: recipient
+2025-06-16 14:43:34,380 - WARNING - Could not create index: no such column: recipient
+2025-06-16 14:43:34,381 - INFO - Database initialized and migrated successfully
+2025-06-16 14:44:38,605 - INFO - Updated existing records with descriptions
+2025-06-16 14:44:38,606 - INFO - Database initialized and migrated successfully
+2025-06-16 14:44:46,166 - INFO - Updated existing records with descriptions
+2025-06-16 14:44:46,167 - INFO - Database initialized and migrated successfully
+2025-06-16 14:45:45,145 - INFO - Updated existing records with descriptions
+2025-06-16 14:45:45,146 - INFO - Database initialized and migrated successfully
+2025-06-16 15:04:12,386 - INFO - Updated existing records with descriptions
+2025-06-16 15:04:12,388 - INFO - Database initialized and migrated successfully
+2025-06-16 15:05:06,903 - INFO - Updated existing records with descriptions
+2025-06-16 15:05:06,903 - INFO - Database initialized and migrated successfully
+2025-06-16 15:07:16,145 - INFO - Updated existing records with descriptions
+2025-06-16 15:07:16,145 - INFO - Database initialized and migrated successfully
+2025-06-16 15:10:07,385 - INFO - Updated existing records with descriptions
+2025-06-16 15:10:07,386 - INFO - Database initialized and migrated successfully
+2025-06-16 15:10:09,046 - INFO - Updated existing records with descriptions
+2025-06-16 15:10:09,047 - INFO - Database initialized and migrated successfully
+2025-06-16 15:10:45,635 - INFO - Updated existing records with descriptions
+2025-06-16 15:10:45,636 - INFO - Database initialized and migrated successfully
+2025-06-16 15:10:47,182 - INFO - Updated existing records with descriptions
+2025-06-16 15:10:47,184 - INFO - Database initialized and migrated successfully
+2025-06-16 15:10:48,543 - INFO - Updated existing records with descriptions
+2025-06-16 15:10:48,544 - INFO - Database initialized and migrated successfully
+2025-06-16 15:24:01,633 - INFO - Updated existing records with descriptions
+2025-06-16 15:24:01,642 - INFO - Database initialized and migrated successfully
+2025-06-16 15:24:02,709 - ERROR - Error fetching transactions: no such column: receiver
+2025-06-16 15:24:36,632 - INFO - Updated existing records with descriptions
+2025-06-16 15:24:36,633 - INFO - Database initialized and migrated successfully
+2025-06-16 15:24:45,399 - ERROR - Error fetching transactions: no such column: receiver
+2025-06-16 15:26:48,277 - ERROR - Error fetching transactions: no such column: receiver
+2025-06-16 15:27:06,779 - ERROR - Error fetching transactions: no such column: receiver
+2025-06-16 15:27:25,261 - ERROR - Error fetching transactions: no such column: receiver

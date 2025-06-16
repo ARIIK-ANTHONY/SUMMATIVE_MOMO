@@ -1,0 +1,22 @@
+2025-06-16 12:54:11,820 - INFO - Starting MoMo Analytics API on port 5000
+2025-06-16 12:54:11,987 - WARNING -  * Debugger is active!
+2025-06-16 12:54:11,999 - INFO -  * Debugger PIN: 119-653-472
+2025-06-16 12:54:16,759 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:16] "[33mGET /analytics/insights/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:16,763 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:16] "[33mGET /analytics/day_of_week/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:16,767 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:16] "[33mGET /analytics/time_between/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:21,603 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:21] "[33mGET /analytics/insights/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:21,604 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:21] "[33mGET /analytics/day_of_week/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:21,605 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:21] "[33mGET /analytics/time_between/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:27,248 - INFO - Starting MoMo Analytics API on port 5000
+2025-06-16 12:54:27,384 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-06-16 12:54:27,385 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 12:54:27,387 - INFO -  * Restarting with stat
+2025-06-16 12:54:29,167 - INFO - Starting MoMo Analytics API on port 5000
+2025-06-16 12:54:29,218 - WARNING -  * Debugger is active!
+2025-06-16 12:54:29,224 - INFO -  * Debugger PIN: 119-653-472
+2025-06-16 12:54:29,406 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:29] "[33mGET /analytics/insights/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:29,408 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:29] "[33mGET /analytics/day_of_week/ HTTP/1.1[0m" 404 -
+2025-06-16 12:54:29,411 - INFO - 127.0.0.1 - - [16/Jun/2025 12:54:29] "[33mGET /analytics/time_between/ HTTP/1.1[0m" 404 -
