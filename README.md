@@ -467,7 +467,4 @@ Complete SMS processing and analytics solution"
     <em>Built with Python • FastAPI • Flask • SQLite • JavaScript • ECharts • Modern CSS</em>
   </p>
   
-  <p>⭐ <strong>Demonstrating exceptional fullstack development expertise</strong> ⭐</p>
-  
-  <p><em>Ready for academic evaluation and professional showcase</em></p>
 </div>
