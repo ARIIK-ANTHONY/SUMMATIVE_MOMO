@@ -347,7 +347,7 @@ sqlite3 backend/momo.db "SELECT COUNT(*) FROM transactions;"
 - **🌐 API Throughput**: High-performance FastAPI with async support
 - **📱 Frontend Performance**: Smooth interactions with large datasets
 
-## 🎥 Video Link
+## 🎥 Video Demo
 
 here is the link; https://www.canva.com/design/DAGqjVCLFkU/alvYvMWsn3MgQnuxFVV_AA/edit?utm_content=DAGqjVCLFkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
