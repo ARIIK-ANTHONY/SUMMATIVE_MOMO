@@ -711,14 +711,3 @@ curl http://localhost:5000/analytics/insights/
 - Request signing
 
 ---
-
-<div align="center">
-  <h3>🎯 Ready for Integration</h3>
-  <p><strong>Complete API documentation for seamless frontend integration</strong></p>
-  
-  <p>
-    <em>FastAPI: High-performance core operations • Flask: Advanced analytics & reporting</em>
-  </p>
-  
-  <p>📚 <strong>Interactive docs available at localhost:8000/docs</strong> 📚</p>
-</div>
