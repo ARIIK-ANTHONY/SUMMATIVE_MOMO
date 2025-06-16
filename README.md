@@ -466,5 +466,9 @@ Complete SMS processing and analytics solution"
   <p>
     <em>Built with Python • FastAPI • Flask • SQLite • JavaScript • ECharts • Modern CSS</em>
   </p>
-  <p>Credit<span>VS Code Copilot:</span>I used it for writing my README.Md file</p>
+
+
+  <p align="center">
+  <sub>README documentation assisted by GitHub Copilot in VS Code</sub>
+</p>
 </div>
