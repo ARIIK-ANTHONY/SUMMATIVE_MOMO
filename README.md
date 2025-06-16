@@ -347,49 +347,10 @@ sqlite3 backend/momo.db "SELECT COUNT(*) FROM transactions;"
 - **🌐 API Throughput**: High-performance FastAPI with async support
 - **📱 Frontend Performance**: Smooth interactions with large datasets
 
-## 🎥 Video Walkthrough
+## 🎥 Video Link
 
-### 📹 5-Minute Professional Demonstration
+here is the link; https://www.canva.com/design/DAGqjVCLFkU/alvYvMWsn3MgQnuxFVV_AA/edit?utm_content=DAGqjVCLFkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-**Video Content Structure**:
-
-1. **System Overview** (1 min)
-   - Introduction to MTN MoMo SMS analytics challenge
-   - Architecture overview: XML → Processing → APIs → Dashboard
-   - Technology stack demonstration
-
-2. **Data Processing Excellence** (1 min)
-   - Live execution of `populate_db.py`
-   - Show 100% processing success (1,693/1,693 SMS)
-   - Database creation and validation
-
-3. **API Functionality** (1.5 min)
-   - FastAPI interactive documentation demo
-   - Flask analytics endpoints demonstration
-   - Real-time data retrieval and processing
-
-4. **Dashboard Experience** (1.5 min)
-   - Complete dashboard navigation
-   - Interactive charts and filtering
-   - Theme switching and responsiveness
-   - Export functionality demo
-
-**Technical Highlights**:
-- ✅ Live demonstration with real data processing
-- ✅ All APIs running and responding correctly
-- ✅ Dashboard fully functional with all features
-- ✅ Professional presentation of code architecture
-- ✅ Business value and technical excellence showcase
-
-## 🤝 Academic Excellence & Contribution
-
-### 📋 Project Information
-- **🎓 Institution**: African Leadership University
-- **👨‍🎓 Author**: Anthony Ariik Mathiang Ariik
-- **📧 Contact**: a.ariik@alustudent.com
-- **📚 Course**: Full-Stack Web Development
-- **📅 Academic Year**: 2024
-- **🎯 Project Type**: Summative Assessment - Advanced Level
 
 ### 🌟 Academic Achievement Highlights
 - **📊 Complete Full-Stack Implementation**: Backend, APIs, Frontend, Database
