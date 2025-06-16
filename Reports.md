@@ -1,10 +1,10 @@
 # 📋 Technical Report: MTN MoMo SMS Data Analysis Dashboard
 
-**Project**: SMS Transaction Analytics Platform  
+**Project**: Summative Assignment - MoMo Data Analysis
 **Author**: Anthony Ariik Mathiang Ariik  
 **Institution**: African Leadership University  
-**Course**: Full-Stack Web Development  
-**Date**: June 2024  
+**Course**: Enterprise_Web_Development 
+**Date**: June 2025
 
 ---
 
