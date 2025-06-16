@@ -3,7 +3,7 @@
 <div align="center">
  
   
-  <h2>🎯 Enterprise-Grade SMS Transaction Analytics Platform</h2>
+  <h2>🎯 MTN MoMo SMS Analytics Dashboard</h2>
   <p><em>Intelligent processing & visualization of MTN Mobile Money transactions</em></p>
   
   <p>
