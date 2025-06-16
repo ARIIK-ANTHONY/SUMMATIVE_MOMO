@@ -13,7 +13,7 @@
   
   <p>
     <a href="#-video-walkthrough">🎥 <strong>Video Demo</strong></a> • 
-    <a href="http://localhost:8000/docs">📚 <strong>API Documentation</strong></a> • 
+    <a href="./API_DOCUMENTATION.md">📚 <strong>API Documentation</strong></a> • 
     <a href="#-quick-start">🚀 <strong>Get Started</strong></a>
   </p>
 </div>
