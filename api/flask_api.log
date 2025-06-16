@@ -1323,3 +1323,6 @@ TypeError: unsupported format string passed to NoneType.__format__
 2025-06-16 17:02:22,212 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/time_between/ HTTP/1.1" 200 -
 2025-06-16 17:02:22,212 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
 2025-06-16 17:02:22,215 - INFO - 127.0.0.1 - - [16/Jun/2025 17:02:22] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 17:03:21,602 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:21] "GET /analytics/day_of_week/ HTTP/1.1" 200 -
+2025-06-16 17:03:21,605 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:21] "GET /analytics/insights/ HTTP/1.1" 200 -
+2025-06-16 17:03:21,620 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:21] "GET /analytics/time_between/ HTTP/1.1" 200 -
