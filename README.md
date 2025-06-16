@@ -118,6 +118,8 @@ summative_momo/
 ├── 📊 sms_data.xml                # 📱 Original SMS data (1,693 messages)
 ├── 📖 README.md                   # 📚 This documentation
 └── 👥 AUTHORS.md                  # 🏆 Project author
+├──    Reports.md
+└──   API_DOCUMENTATION.md
 ```
 
 ## 🔧 API Reference
