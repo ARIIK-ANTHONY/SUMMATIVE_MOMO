@@ -1,3 +1,3 @@
-# === AUTHORS.md ===
-- Anthony Ariik Mathiang Ariik
-- [a.ariik@alustudent.com]
+=== AUTHOR ===
+ Anthony Ariik Mathiang Ariik
+ [a.ariik@alustudent.com]
